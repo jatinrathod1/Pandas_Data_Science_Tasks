@@ -20,8 +20,7 @@ We use this dataset to perform data cleaning, manipulation, and visualization in
 1. [Data Cleaning](#data-cleaning)
 2. [Business Questions Explored](#business-questions-explored)
 3. [Tools and Libraries](#tools-and-libraries)
-4. [Setup and Installation](#setup-and-installation)
-5. [Results and Visualizations](#results-and-visualizations)
+4. [Results and Visualizations](#results-and-visualizations)
 
 ---
 
